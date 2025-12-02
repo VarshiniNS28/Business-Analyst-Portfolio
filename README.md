@@ -27,12 +27,7 @@ Welcome to my Business Analyst Portfolio! This repository showcases my work in b
 - Agile & Scrum Documentation  
 - FSD, BRD, PRD Documentation  
 
-## 📄 Files Included
-- `Stakeholder Analysis.pdf`  
-- `Business Requirement Document.pdf`  
-- `Orders_Data.xlsx`  
-- `Orders_Dashboard/README.md`  
-- Additional PRDs, FSDs, User Stories (to be added)
+
 
 ---
 
