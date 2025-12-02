@@ -5,8 +5,8 @@ Welcome to my Business Analyst Portfolio repository! This repository showcases m
 ## 📂 Contents
 
 ### Case Studies & Analysis
-- **Stakeholder Analysis** – Understanding project stakeholders and their requirements. [PDF](Stakeholder%20Analysis.pdf)
-- **Business Requirement Document (BRD)** – Comprehensive BRDs created for sample projects. [PDF](Business%20Requirement%20Document.pdf)
+- **Stakeholder Analysis** – Understanding project stakeholders and their requirements. 
+- **Business Requirement Document (BRD)** – Comprehensive BRDs created for sample projects. 
 
 ### Functional Documentation
 - **Functional Specification Documents (FSD)**
@@ -15,8 +15,8 @@ Welcome to my Business Analyst Portfolio repository! This repository showcases m
 - **Elicitation Documents**
 
 ### Dashboards & Data Analysis
-- **Orders Dashboard** – Excel dashboards showcasing metrics and KPIs. [Excel File](Orders_Data.xlsx)
-- **README for Dashboards** – Overview of how dashboards are structured and metrics defined. [README](Orders_Dashboard/README.md)
+- **Orders Dashboard** – Excel dashboards showcasing metrics and KPIs.
+- **README for Dashboards** – Overview of how dashboards are structured and metrics defined. 
 
 ## 🛠 Skills Demonstrated
 - Requirement Gathering & Analysis
