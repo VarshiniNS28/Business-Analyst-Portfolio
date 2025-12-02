@@ -28,12 +28,9 @@ Welcome to my Business Analyst Portfolio repository! This repository showcases m
 - FSD, BRD, PRD Documentation
 
 ## 📄 Files Included
-- `Stakeholder Analysis.pdf`
-- `Business Requirement Document.pdf`
+- `Stakeholder Analysis`
+- `Business Requirement Document`
 - `Orders_Data.xlsx`
 - `Orders_Dashboard/README.md`
-- Additional PRDs, FSDs, User Stories (to be added)
-
----
 
 
